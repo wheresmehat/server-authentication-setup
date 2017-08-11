@@ -1,5 +1,5 @@
 server-authentication-setup
-========
+----
 server authentication with passport and jwt-simple
 
 config.js file is missing in root
